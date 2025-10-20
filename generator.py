@@ -1,5 +1,4 @@
 import random
-import fractions
 from fractions import Fraction
 from calculator import ExpressionCalculator
 
